@@ -59,7 +59,7 @@ module.exports = {
             radio.on('stream', stream => {
             // start stream and set volume
             const connection = stream.channel.join();
-            connection.playFile(stream, { inlineVolume: true });
+            connection.playFile(stream, { inlineVolume: false });
             connection.setVolume(100 / 100);
             });
 
