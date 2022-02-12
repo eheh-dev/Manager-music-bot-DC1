@@ -33,7 +33,7 @@ module.exports = {
         console.log(`[Info]`, `Server: ${server.name} (${server.id})`);
     
         // target channel
-        let channel = client.channels.cache.get("918992474117128232");
+        let channel = client.channels.cache.get("942152934895013888");
         const channel2 = client.channels.cache.get("757004209701912587");
         console.log(`[Info]`, `Channel: ${channel.name} (${channel.id})`);
         const connection = joinVoiceChannel({
