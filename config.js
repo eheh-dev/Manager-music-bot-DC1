@@ -2,7 +2,7 @@ module.exports = {
     app: {
         px: '!mg',
         token: 'OTE5OTQwNjIwNDU2NDQzOTM1.YbdHdw.SxwqZsv4aQmKz4mCK-4bbN8AX0g',
-        playing: 'by Zerio ❤️ for Eheh Team'
+        playing: 'MAINTENANCE MODE'
     },
 
     opt: {
